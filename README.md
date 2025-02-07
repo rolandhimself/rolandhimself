@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Roland
-- 👀 I’m interested in ... Cybersecurity and JS
-- 🌱 I’m currently learning ... Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... Cybersecurity and Software development
+- 🌱 I’m currently learning ... React Native
+- 💞️ I’m looking to collaborate on ... building mobile apps
+- 📫 How to reach me ... 
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... 
+- ⚡ Fun fact: ... I'm batman
 
 <!---
 rolandhimself/rolandhimself is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
