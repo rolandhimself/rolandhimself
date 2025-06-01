@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Roland<br>👀 I’m interested in ... Cybersecurity and Software development<br>🌱 I’m currently learning ... React Native<br>💞️ I’m looking to collaborate on ... building mobile apps<br>📫 How to reach me ...<br>😄 Pronouns: ... he/him<br>⚡ Fun fact: ... I'm batman 
+Hi, I’m Roland<br>👀 I’m interested in ... Cybersecurity and Software development<br>🌱 I’m currently learning ... React <br>💞️ I’m looking to collaborate on ... building mobile and web apps<br>📫 How to reach me ...<br>😄 Pronouns: ... he/him<br>⚡ Fun fact: ... I'm batman 
 
 
 ## 🌐 Socials:
